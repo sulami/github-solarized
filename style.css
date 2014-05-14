@@ -1,0 +1,22 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("github.com") {
+    article.markdown-body {
+        background-color: #fdf6e3 !important;
+        color: #002b36 !important;
+    }
+    article.markdown-body pre {
+        background-color: #002b36 !important;
+        color: #fdf6e3 !important;
+    }
+    article.markdown-body pre code {
+        background: none !important;
+    }
+    article.markdown-body code, article.markdown-body tt {
+        background-color: #eee8d5 !important;
+    }
+    article.markdown-body a {
+        color: #268bd2 !important;
+    }
+}
+
