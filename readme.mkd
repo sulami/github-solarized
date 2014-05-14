@@ -1,0 +1,4 @@
+This is a simple userstyle to convert Github readmes to the [Solarized
+colorscheme](http://ethanschoonover.com/solarized) which is more friendly to
+the eyes.
+
